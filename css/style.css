@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(247, 247, 247);
+}
+
+.navigationbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navlinks{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+}
+
+.navlinks li{
+    padding: 15px;
+}
